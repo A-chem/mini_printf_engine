@@ -1,5 +1,6 @@
 # mini_printf_engine
 A custom implementation of the standard printf function in C, built from scratch as part of the 42 curriculum. The goal of this project is to understand variadic functions, string formatting, and low-level output handling without relying on the standard C library’s printf.
+
 # 🖨️ ft_printf – Recreating printf in C
 
 > 🚀 A core 42 project focused on mastering variadic functions, formatted output, and low-level data manipulation in C.  
